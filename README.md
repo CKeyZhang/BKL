@@ -9,4 +9,5 @@ In BKL, we propose a probability mapping that imparts symmetry and linear variat
 We validated the effectiveness of BKL on tasks across various modalities separately.
 Extensive experimental results on demonstrates that BKL  outperforms baseline methods and enhances the consistency of outputs between the teacher and student models.
 
-Code will be available soon.
+## Installation
+We have validated the effectiveness of our method on the CIFAR100 dataset and the GLUE benchmark. For experimental setup and environment configuration, please refer to  and  respectively.
