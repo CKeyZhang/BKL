@@ -10,4 +10,4 @@ We validated the effectiveness of BKL on tasks across various modalities separat
 Extensive experimental results on demonstrates that BKL  outperforms baseline methods and enhances the consistency of outputs between the teacher and student models.
 
 ## Installation
-We have validated the effectiveness of our method on the CIFAR100 dataset and the GLUE benchmark. For experimental setup and environment configuration, please refer to [CIFAR100](https://github.com/CKeyZhang/BKL/blob/main/CIFAR100/Readme.md) and  respectively.
+We have validated the effectiveness of our method on the CIFAR100 dataset and the GLUE benchmark. For experimental setup and environment configuration, please refer to [CIFAR100 Installation](https://github.com/CKeyZhang/BKL/blob/main/CIFAR100/Readme.md) and [GLUE Installation](https://github.com/CKeyZhang/BKL/blob/main/GLUE/Readme.md) respectively.
