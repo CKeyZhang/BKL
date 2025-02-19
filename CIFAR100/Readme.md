@@ -8,7 +8,9 @@ The code is built on [mdistiller](<https://github.com/megvii-research/mdistiller
 Environments:
 
 - Python 3.8
-- PyTorch 1.7.0
+- PyTorch 1.10.0
+- torchvision 0.11.0
+- CUDA 11.3
 
 Install the package:
 
