@@ -1,4 +1,4 @@
-# BKL
+# Revisiting the Functional Properties of KL Divergence in Knowledge Distillation
 
 ## Abstract
 Knowledge distillation is widely used in the model compression of deep neural networks.
